@@ -1,0 +1,12 @@
+[02-Jul-2019 07:58:22 America/Hermosillo] PHP Warning:  scandir(../../../source/): failed to open dir: No such file or directory in /home2/tutor/public_html/assets/libs/filemanager/dialog.php on line 610
+[02-Jul-2019 07:58:22 America/Hermosillo] PHP Warning:  scandir(): (errno 2): No such file or directory in /home2/tutor/public_html/assets/libs/filemanager/dialog.php on line 610
+[02-Jul-2019 07:58:22 America/Hermosillo] PHP Warning:  Invalid argument supplied for foreach() in /home2/tutor/public_html/assets/libs/filemanager/dialog.php on line 622
+[02-Jul-2019 07:58:22 America/Hermosillo] PHP Warning:  Invalid argument supplied for foreach() in /home2/tutor/public_html/assets/libs/filemanager/dialog.php on line 1232
+[02-Jul-2019 08:02:47 America/Hermosillo] PHP Fatal error:  Call to undefined function mime_content_type() in /home2/tutor/public_html/assets/libs/filemanager/include/php_image_magician.php on line 2723
+[02-Jul-2019 08:02:47 America/Hermosillo] PHP Fatal error:  Call to undefined function mime_content_type() in /home2/tutor/public_html/assets/libs/filemanager/include/php_image_magician.php on line 2723
+[02-Jul-2019 08:03:00 America/Hermosillo] PHP Fatal error:  Call to undefined function mime_content_type() in /home2/tutor/public_html/assets/libs/filemanager/include/php_image_magician.php on line 2723
+[02-Jul-2019 08:03:00 America/Hermosillo] PHP Fatal error:  Call to undefined function mime_content_type() in /home2/tutor/public_html/assets/libs/filemanager/include/php_image_magician.php on line 2723
+[02-Jul-2019 08:03:05 America/Hermosillo] PHP Fatal error:  Call to undefined function mime_content_type() in /home2/tutor/public_html/assets/libs/filemanager/include/php_image_magician.php on line 2723
+[02-Jul-2019 08:04:56 America/Hermosillo] PHP Fatal error:  Call to undefined function mime_content_type() in /home2/tutor/public_html/assets/libs/filemanager/include/php_image_magician.php on line 2723
+[02-Jul-2019 08:12:48 America/Hermosillo] PHP Fatal error:  Call to undefined function mime_content_type() in /home2/tutor/public_html/assets/libs/filemanager/include/php_image_magician.php on line 2723
+[02-Jul-2019 14:49:57 America/New_York] PHP Parse error:  syntax error, unexpected ''Yave'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home2/tutor/public_html/assets/libs/filemanager/dialog.php on line 303
